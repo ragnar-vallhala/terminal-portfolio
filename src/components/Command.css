@@ -1,0 +1,24 @@
+.prompt{
+  color: #00ff00; /* Optional: Prompt color */
+  margin-right:0.5em;
+}
+
+.history{
+ background: none;
+  border: none;
+  outline: none;
+  resize: none;
+  width: 100%; /* Full width */
+  flex: 1; /* Allow it to take remaining space */
+  height:auto;
+ font-size: inherit; /* Inherit font size from parent */
+
+  cursor: default;
+  color: #fff;
+  font-family: 'Monaco', 'Courier New', monospace;
+  white-space: pre-wrap;  /* Wraps text and preserves whitespace */
+    word-wrap: break-all;  /* Breaks long words if necessary */
+    overflow-wrap: break-word; /* For better compatibility */
+
+
+}
