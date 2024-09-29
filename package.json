@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ragnar-vallhala.github.io/terminal-portfolio",
+  "homepage": "https://ragnar-vallhala.github.io/terminal-portfolio",
   "name": "terminal-portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predploy":"npm run build",
-    "deploy":"gh-pages -d build",
+    "deploy":"gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"

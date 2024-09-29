@@ -1,9 +1,6 @@
 import './App.css'
 import Initial from './components/Initial.jsx'
 import Workarea from './components/Workarea.jsx'
-import * as smoothscroll from "smoothscroll-polyfill";
-
-smoothscroll.polyfill();
 
 
 function App() {
