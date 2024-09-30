@@ -40,7 +40,7 @@ export const dir = {
 
 export const files = {
   '~/about/me.txt': "I am Ashutosh Vishwakarma, a passionate software developer currently pursuing a Bachelor's degree in Computer Science & Engineering at the Indian Institute of Technology Jammu. With a robust foundation in web development, IoT, and embedded systems, I specialize in languages such as Python, JavaScript, C, C++, and Java. My experience encompasses both hands-on projects and internships, where I've actively contributed to transforming STEM education and developing innovative solutions. I thrive in Unix/Linux environments and am dedicated to continuous learning, problem-solving, and leveraging technology to create impactful applications.",
-  '~/about/mailMe': 'mailto:ashutoshvishwakarma208@gmail.com',
+  '~/about/mailMe.ln': 'mailto:ashutoshvishwakarma208@gmail.com',
   '~/contacts/github.ln': 'https://github.com/ragnar-vallhala',
   '~/contacts/instagram.ln': 'https://www.instagram.com/7__v.ashu__7/profilecard/?igsh=MWFjcTQzYXZocXFhMQ==',
   '~/contacts/linkedin.ln': 'https://www.linkedin.com/in/ashutosh-vishwakarma-083305257/',
