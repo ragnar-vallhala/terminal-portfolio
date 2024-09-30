@@ -12,7 +12,10 @@ Use the commands below and enjoy the experience of terminal in web.\n\
     ls                  List all the files and directories\n\
     pwd                 Print Working Directory\n\
     reboot              Restart the terminal\n\
-    ./[executable]      Run Executable`;
+    ./[executable]      Run Executable
+
+The files with .ln extension are executable.`;
+
 
 export const invalid = "Command not found\nTry help";
 

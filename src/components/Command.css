@@ -1,6 +1,7 @@
 .prompt{
-  color: #00ff00; /* Optional: Prompt color */
   margin-right:0.5em;
+  font-family: 'Monaco', 'Courier New', monospace;
+
 }
 
 .history{
@@ -20,5 +21,17 @@
     word-wrap: break-all;  /* Breaks long words if necessary */
     overflow-wrap: break-word; /* For better compatibility */
 
+}
 
+.yellow{
+color: #ff0;
+  font-weight: bold;
+}
+.white{
+  color: #fff;
+  font-weight: bold;
+}
+.green{
+color: #0f0;
+  font-weight: bold;
 }
