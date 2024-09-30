@@ -29,7 +29,7 @@ function Workarea() {
     if (e.key === 'Enter') {
       e.preventDefault();
       const res = handleCommand(path, inputValue, setPath);
-      if (res === '0') { setHistory(['']); }
+      if (res === '0') { setHistory([]); }
       else {
         const entry = {
           prompt: user + '@' + host + ':' + path + '$',
