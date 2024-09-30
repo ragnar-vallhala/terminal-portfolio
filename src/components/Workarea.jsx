@@ -81,11 +81,11 @@ function Workarea() {
           )
         })
       }
-      <div className='flex w-full'>
+      <div className='flex w-full mono'>
         <span className='yellow mr-[0.5em]'>{'ragnar'}</span>
         <span className='white mr-[0.5em]'>{'@'}</span>
         <span className='green mr-[0.5em]'>{'vallhala'}</span>
-        <span className='white mr-[0.5em]'>{path}</span>
+        <span className='white mr-[0.5em]'>{path + '$'}</span>
         <textarea
           ref={inputRef}
           className="terminal-input"

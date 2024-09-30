@@ -41,3 +41,6 @@ color: #ff0;
 color: #0f0;
   font-weight: bold;
 }
+.mono{
+  font-family: 'Monaco', 'Courier New', monospace;
+}
