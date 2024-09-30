@@ -18,7 +18,7 @@ export const invalid = "Command not found\nTry help";
 
 export const dir = {
   '~': ['about/', 'contacts/', 'projects/'],
-  '~/about': ['mailMe*', 'me.txt'],
+  '~/about': ['mailMe.ln', 'me.txt'],
   '~/contacts': ['github.ln', 'instagram.ln', 'linkedin.ln', 'mail.ln'],
   '~/projects': [
     'Chip8Emulator/',
